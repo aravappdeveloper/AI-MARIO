@@ -77,7 +77,7 @@ function game(){
     fill(255, 255, 255);
     textSize(40);
     textAlign(CENTER);
-    text("Press start to play", gameConfig.screenX/2, gameConfig.screenY/2);
+    text("Press 'Play' to play!", gameConfig.screenX/2, gameConfig.screenY/2);
     textSize(40);
 
     stroke(255);
